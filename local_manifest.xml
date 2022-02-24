@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/sm6250-common" name="Abhishek001konni/device_xiaomi_sm6250-common.git" remote="github" revision="main" />
+ <project path="device/xiaomi/miatoll" name="PixelPlusUI-Devices/device_xiaomi_miatoll.git" remote="github" revision="twelve" />
+ <project path="vendor/xiaomi/sm6250-common" name="Spark-Devices/vendor_xiaomi_sm6250-common.git" remote="github" revision="spark" />
+ <project path="vendor/xiaomi/miatoll" name="Spark-Devices/vendor_xiaomi_miatoll.git" remote="github" revision="spark" />
+ <project path="kernel/xiaomi/sm6250" name="Abhishek001konni/kernel_xiaomi_sm6250.git" remote="github" revision="12" />
+ 
+</manifest>
